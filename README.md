@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/evans-karago-58b032278)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your_twitter_pr)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your_facebook_profile_url)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076422698977)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_profile_url)
 [![Upwork](https://img.shields.io/badge/Upwork-Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/your_upwork_profile_url)
 [![Credly](https://img.shields.io/badge/Credly-Profile-00376B?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/public/your_credly_profile_url)
