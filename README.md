@@ -1,11 +1,11 @@
 ## ![EVANS NJAGI KARAGO](https://media.licdn.com/dms/image/D4D03AQGID9Z1cyJ7KA/profile-displayphoto-shrink_200_200/0/1690446582937?e=1703116800&v=beta&t=08xiHfxbGjufUsbubEvt7cfzCZd9quHVL6NxFJSh9DE)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/evans-karago-58b032278)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evans-karago-58b032278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your_twitter_pr)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kenjagi11)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076422698977)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_profile_url)
-[![Upwork](https://img.shields.io/badge/Upwork-Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/your_upwork_profile_url)
-[![Credly](https://img.shields.io/badge/Credly-Profile-00376B?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/public/your_credly_profile_url)
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01dbeabf25816e9c4b)
+[![Credly](https://img.shields.io/badge/Credly-Profile-00376B?style=for-the-badge&logo=credly&logoColor=white)](credly.com/users/evans-njagi)
 
 
 ## About Me
