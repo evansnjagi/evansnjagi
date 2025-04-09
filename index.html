@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ken's GitHub Portfolio</title>
+  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+  <style>
+    :root {
+      --bg-color: #0d1117;
+      --text-color: #c9d1d9;
+      --accent-color: #1f6feb;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      margin: 0;
+      padding: 0 1rem;
+    }
+
+    header {
+      text-align: center;
+      padding: 2rem 0;
+    }
+
+    h1, h2 {
+      color: var(--accent-color);
+    }
+
+    section {
+      margin-bottom: 2rem;
+    }
+
+    .tools-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+      gap: 1rem;
+      text-align: center;
+    }
+
+    .tools-grid img {
+      max-width: 80px;
+      height: auto;
+      display: block;
+      margin: auto;
+    }
+
+    .contact {
+      text-align: center;
+      margin-top: 2rem;
+    }
+
+    details {
+      background: #161b22;
+      padding: 1rem;
+      border-radius: 8px;
+      margin-bottom: 1rem;
+    }
+
+    summary {
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    a {
+      color: var(--accent-color);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>👨‍💻 Welcome to My GitHub Portfolio</h1>
+    <p>Sharing my journey in data science, web development, and automation.</p>
+  </header>
+
+  <!-- Profile and Resume -->
+  <section data-aos="fade-up" style="text-align:center;">
+    <img src="your-profile-pic.jpg" alt="Profile" style="width:150px;height:150px;border-radius:50%;box-shadow:0 4px 12px rgba(0,0,0,0.3);margin-bottom:10px;">
+    <h2>[Your Full Name]</h2>
+    <p style="max-width:600px;margin:auto;">
+      Passionate Data Scientist skilled in Python, SQL, and building impactful dashboards. I bring data to life with clean insights and smart designs.
+    </p>
+    <a href="your-resume.pdf" download style="display:inline-block;margin-top:10px;background:var(--accent-color);color:white;padding:10px 20px;border-radius:25px;text-decoration:none;">
+      📄 Download Resume
+    </a>
+  </section>
+
+  <!-- Projects In Progress -->
+  <section data-aos="fade-up">
+    <h2>🚧 Projects In Progress</h2>
+    <details open>
+      <summary>🔄 Real-time Weather Dashboard</summary>
+      <p>Using APIs and JavaScript to show live weather updates from different cities.</p>
+    </details>
+    <details>
+      <summary>📈 Stock Price Forecasting</summary>
+      <p>Building a forecasting model using Facebook Prophet on NSE stocks.</p>
+    </details>
+  </section>
+
+  <!-- Projects Completed -->
+  <section data-aos="fade-up">
+    <h2>✅ Projects Completed</h2>
+    <details open>
+      <summary>📊 Insurance Cost Predictor</summary>
+      <p>Used linear regression on a medical insurance dataset to predict individual charges.</p>
+    </details>
+    <details>
+      <summary>🚀 SpaceX Landing Classifier</summary>
+      <p>Classified SpaceX rocket cores landing outcomes using machine learning.</p>
+    </details>
+  </section>
+
+  <!-- Tools Section -->
+  <section data-aos="fade-up">
+    <h2>🧰 Tools I Use Comfortably</h2>
+    <div class="tools-grid">
+      <div><img src="https://img.icons8.com/color/96/000000/python.png" alt="Python"><p>Python</p></div>
+      <div><img src="https://img.icons8.com/ios-filled/100/ffffff/google-colab.png" alt="Colab"><p>Google Colab</p></div>
+      <div><img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB"><p>MongoDB</p></div>
+      <div><img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="SQL"><p>SQL</p></div>
+      <div><img src="https://img.icons8.com/color/96/000000/visual-studio.png" alt="VS Studio"><p>VS Studio</p></div>
+      <div><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" style="width:60px;"><p>LaTeX</p></div>
+      <div><img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" style="width:60px;"><p>Jupyter</p></div>
+    </div>
+  </section>
+
+  <!-- Blog Section -->
+  <section data-aos="fade-up">
+    <h2>📚 Blog & Articles</h2>
+    <details open>
+      <summary>🧠 How I Built a Rocket Landing Predictor</summary>
+      <p>A deep dive into data collection, preprocessing, and deploying a machine learning model for SpaceX landings. <a href="#">Read more</a></p>
+    </details>
+    <details>
+      <summary>📉 5 Lessons from My First Regression Project</summary>
+      <p>Exploring real-life insurance cost prediction with Python, pandas, and scikit-learn. <a href="#">Read more</a></p>
+    </details>
+    <details>
+      <summary>📊 How to Create Stunning Dashboards in Google Colab</summary>
+      <p>Step-by-step tutorial to bring your analysis to life. <a href="#">Read more</a></p>
+    </details>
+  </section>
+
+  <!-- Contact Info -->
+  <section class="contact" data-aos="fade-up">
+    <h2>📞 Contact Me</h2>
+    <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+    <p>&copy; 2025 Ken's Portfolio</p>
+  </section>
+
+  <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+</body>
+
+</html>
