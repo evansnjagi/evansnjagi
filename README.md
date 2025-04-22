@@ -37,7 +37,7 @@
 
 <h> 📂 All ongoing projects are located **inside this repository**.</h>
 <details>
-  <summary> Deep Learning (Ongoing Project) </summary>
+  <summary> Time Series Analysis (Ongoing Project) </summary>
   
   <table>
     <thead>
