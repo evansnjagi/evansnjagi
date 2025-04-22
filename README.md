@@ -49,9 +49,8 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/your-username/deep-learning-pytorch">🧠 Deep Learning with PyTorch</a></td>
-        <td>Building and training neural networks using PyTorch for image classification, regression, and more.</td>
-        <td>PyTorch, Neural Networks, CNN, RNN</td>
+        <td><a href="https://github.com/evansnjagi/Time-Series">📈 Time series Analysis</a></td>
+        <td>Building and training a time series model to predict airquality in Nairobi, Kenya</td>
       </tr>
     </tbody>
   </table>
