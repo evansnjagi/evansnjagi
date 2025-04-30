@@ -1,45 +1,65 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGID9Z1cyJ7KA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1690446584100?e=1750291200&v=beta&t=hCzlIs678RsCAGZXPTmc-UGNDJaLHphwvkksS8A6Zkg" 
-       alt="Evans" 
-       width="120" 
-       height="120" 
+![image](https://github.com/user-attachments/assets/4bb2ca49-eac8-450a-8f93-280cdfa893f3)<p align="center">
+  <img src="https://community.nasscom.in/sites/default/files/styles/960_x_600/public/media/images/DATA%20SCIENCE%20MODEL.jpg?itok=Uw9IQgUd" 
+       alt="Evans Karago" 
+       width="140" 
+       height="140" 
        style="border-radius: 50%; object-fit: cover;">
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#2E86C1;">Evans</span> 👋</h1>
+<h1 align="center">Hi, I'm <span style="color:#2E86C1;">Evans Karago</span> 👋</h1>
 
 <p align="center">
-  A passionate <strong>Data Scientist</strong> turning raw data into real-world impact.<br>
-  Skilled in <code>Python</code>, <code>SQL</code>, <code>MongoDB</code>, <code>Machine Learning</code>, <code>Deep Learning</code>, <code>Data Preparation</code>, and <code>LaTeX</code>.<br>
-  <em>Always learning. Always building.</em>
+  <strong>Data Scientist</strong> passionate about solving real-world problems through data.<br>
+  I build machine learning models, automate data pipelines, and bring stories out of numbers.<br>
+  <em>Driven by curiosity. Powered by Python. Focused on impact.</em>
 </p>
 
 ---
 
-## 🔍 About Me
+## 🚀 About Me
 
-- 🎓 **Education**:  
-  - WorldQuant University – Applied Data Science, Deep Learning  
-  - Moi University – BSc. Actuarial Science  
-
-- 🔬 **Interests**: Predictive modeling, Data visualization, AI, Model Deployment
-
-- 🚀 **Current Goals**:  
-  - Sharpen machine learning deployment skills  
-  - Contribute to impactful open-source data projects  
-  - Build interactive dashboards and decision-making tools  
-  - Build deep learning models for computer vision
+- 🎓 **Actuarial Scientist turned Data Scientist**
+- 🧠 Currently sharpening skills in **Time Series Forecasting**, **Object Detection**, and **Advanced Modeling**
+- 🤝 Open to collaboration on data science, AI, and analytics projects
+- 🌱 Lifelong learner enrolled at **WorldQuant University**
+- 🗃️ Building my portfolio one real-world project at a time
 
 ---
 
-## 🚧 Ongoing Projects
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+</p>
+
+---
+
+## 🏫 Education
+
+- 🎓 **BSc. Actuarial Science** – Moi University  
+- 📘 **Applied Data Science** – WorldQuant University  
+
+---
+
+## 📂 Ongoing Projects
 
 <details>
-<summary>Click to expand</summary>
+<summary>📊 Time Series Forecasting</summary>
 
-| Project | Description | Technology |
-| :------ | :---------- | :--------- |
-| [📈 Time Series Analysis](https://github.com/evansnjagi/Time-Series) | Building and training a time series model to predict air quality in Nairobi, Kenya. | Time Series Modeling |
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [Air Quality Forecasting](https://github.com/evansnjagi/Time-Series) | Forecasting air pollution in Nairobi using time series models. | `Prophet`, `statsmodels`, `pandas` |
 
 </details>
 
@@ -48,50 +68,59 @@
 ## ✅ Completed Projects
 
 <details>
-<summary>Click to expand</summary>
+<summary>🧪 Click to expand</summary>
 
-| Project | Description | Model |
-| :------ | :---------- | :---- |
-| [🚗 Car Price Prediction](https://github.com/evansnjagi/Car-Price-Prediction) | Multilinear Regression model to predict car prices based on various features. | Ridge Regression, OneHotEncoder, SimpleImputer |
-| [🏥 Health Insurance Charges Prediction](https://github.com/evansnjagi/Health-Insurance) | Predicting health insurance prices based on demographic and health features. | Ridge Regression, OneHotEncoder, Linear Regression |
-
-</details>
-
----
-
-## 📚 Blogs
-
-<details>
-<summary>Click to expand</summary>
-
-- Coming soon! 🚀
+| Project | Description | Tools/Models |
+|--------|-------------|--------------|
+| [🚗 Car Price Prediction](https://github.com/evansnjagi/Car-Price-Prediction) | Regression pipeline for car pricing | `Ridge`, `OHE`, `SimpleImputer` |
+| [🏥 Health Insurance Costs](https://github.com/evansnjagi/Health-Insurance) | Predicting insurance charges from health data | `Linear Regression`, `EDA`, `Seaborn` |
 
 </details>
 
 ---
 
-## 🛠️ Tools & Technologies
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=evanskarago&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=evanskarago&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanskarago&theme=dark&hide_border=true&layout=compact" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=evanskarago&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 📫 Contact Me
 
 - 📧 **Email**: [evanskarago@gmail.com](mailto:evanskarago@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/EvansKarago](https://www.linkedin.com/in/evans-karago-58b032278/)  
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=evanskarago&icon=0&color=0" alt="Profile Views" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
-  <em>"Data is the new oil — I'm here to refine it."</em><br><br>
-  🚀 Let’s build something amazing together!
+  🚀 Let’s build the future with data.<br>
+  <strong><em>"Data is the new oil — I'm here to refine it."</em></strong>
 </p>
