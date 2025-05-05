@@ -55,11 +55,11 @@
 ## 📂 Ongoing Projects
 
 <details>
-<summary>📊 Time Series Forecasting</summary>
+<summary>Banknote Authentication</summary>
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Air Quality Forecasting](https://github.com/evansnjagi/Time-Series) | Forecasting air pollution in Nairobi using time series models. | `Prophet`, `statsmodels`, `pandas` |
+| [Banknote Authentication](https://github.com/evansnjagi/banknote-authentication) | Predicting if a banknote is real or fake | `pytorch`, `pandas`, `pymongo` |
 
 </details>
 
@@ -72,6 +72,7 @@
 
 | Project | Description | Tools/Models |
 |--------|-------------|--------------|
+| [📊 Air Quality Forecasting](https://github.com/evansnjagi/Time-Series) | Forecasting air pollution in Nairobi using time series models. | `Prophet`, `statsmodels`, `pandas` |
 | [🚗 Car Price Prediction](https://github.com/evansnjagi/Car-Price-Prediction) | Regression pipeline for car pricing | `Ridge`, `OHE`, `SimpleImputer` |
 | [🏥 Health Insurance Costs](https://github.com/evansnjagi/Health-Insurance) | Predicting insurance charges from health data | `Linear Regression`, `EDA`, `Seaborn` |
 
