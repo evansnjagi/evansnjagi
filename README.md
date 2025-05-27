@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4bb2ca49-eac8-450a-8f93-280cdfa893f3)<p align="center">
+<p align="center">
   <img src="https://community.nasscom.in/sites/default/files/styles/960_x_600/public/media/images/DATA%20SCIENCE%20MODEL.jpg?itok=Uw9IQgUd" 
        alt="Evans Karago" 
        width="140" 
@@ -86,19 +86,20 @@ Coming soon
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evanskarago&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=evanskarago&show_icons=true&theme=github_dark&hide_border=true" alt="Evans Karago's GitHub stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=evanskarago&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=evanskarago&theme=github-dark&hide_border=true" alt="Evans Karago's GitHub streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanskarago&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanskarago&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=evanskarago&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=evanskarago&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -111,7 +112,7 @@ Coming soon
 
 ---
 
-## 📫 Contact Me
+## 📨 Contact Me
 
 - 📧 **Email**: [evanskarago@gmail.com](mailto:evanskarago@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/EvansKarago](https://www.linkedin.com/in/evans-karago-58b032278/)  
