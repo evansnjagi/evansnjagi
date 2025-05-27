@@ -72,7 +72,7 @@ Coming soon
 | Project | Description | Tools/Models |
 |--------|-------------|--------------|
 | [🚢 Titanic Survival Prediction](https://github.com/evansnjagi/TitanicSurvival) | Predicting passenger survival using Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting |`pymongo`, `scikit-learn`, `pandas`, `seaborn` |
-| [🌍 Earthquake Damage Prediction](https://github.com/evansnjagi/EarhquakeDamage) | Predicting building damage levels in India using classification models | `scikit-learn`, `pandas`, `matplotlib`, `sqlite3` |
+| [🌍 Earthquake Damage Prediction](https://github.com/evansnjagi/EarthquakeDamage) | Predicting building damage levels in India using classification models | `scikit-learn`, `pandas`, `matplotlib`, `sqlite3` |
 | [🏦 Polish Company Bankruptcy](https://github.com/evansnjagi/PolishBankruptcy) | Classifying bankruptcy risk of Polish companies | `scikit-learn`, `pandas`, `matplotlib`, `seaborn`, `pipeline`, `arff data`|
 | [💵 Banknote Authentication](https://github.com/evansnjagi/banknote-authentication) | Predicting if a banknote is real or fake | `pytorch`, `pandas`, `pymongo` |
 | [📊 Air Quality Forecasting](https://github.com/evansnjagi/Time-Series) | Forecasting air pollution in Nairobi using time series models. | `Prophet`, `statsmodels`, `pandas` |
