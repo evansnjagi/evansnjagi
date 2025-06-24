@@ -55,7 +55,7 @@
 ## 📂 Ongoing Projects
 
 <details>
-<summary>HousePricePredictionModelling</summary>
+<summary>TotalEnergined Stock Price Predictons and Modelling</summary>
 
 | Project | Description | Tools |
 |--------|-------------|-------|
