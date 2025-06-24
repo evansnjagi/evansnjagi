@@ -71,6 +71,8 @@ Coming soon
 
 | Project | Description | Tools/Models |
 |--------|-------------|--------------|
+| [🏠 Amos House Price Modelling](https://github.com/evansnjagi/Dash-App) | Built this shallow AI that is predicting house prices using  Linear Regression, Decision Tree, Random Forest, and Gradient Boosting. This version contains the jupyter notebook|`dash`, `scikit-learn`, `pandas`, `plotly`|
+| [🏠Amos House Web App](https://github.com/evansnjagi/Amos-App) | Built this shallow AI that is predicting house prices using  Linear Regression, Decision Tree, Random Forest, and Gradient Boosting |`dash`, `scikit-learn`, `pandas`, `plotly`, `css`|
 | [🚢 Titanic Survival Prediction](https://github.com/evansnjagi/TitanicSurvival) | Predicting passenger survival using Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting |`pymongo`, `scikit-learn`, `pandas`, `seaborn` |
 | [🌍 Earthquake Damage Prediction](https://github.com/evansnjagi/EarthquakeDamage) | Predicting building damage levels in India using classification models | `scikit-learn`, `pandas`, `matplotlib`, `sqlite3` |
 | [🏦 Polish Company Bankruptcy](https://github.com/evansnjagi/PolishBankruptcy) | Classifying bankruptcy risk of Polish companies | `scikit-learn`, `pandas`, `matplotlib`, `seaborn`, `pipeline`, `arff data`|
